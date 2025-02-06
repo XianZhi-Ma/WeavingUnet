@@ -12,4 +12,4 @@ Validation: ```python /WeavingUnet/evaldg.py``` (DeepGlobe) or ```python /Weavin
 
 The processed Massachusetts dataset can be obtained at: https://pan.baidu.com/s/1IOp0qI7t3swYrqaKfcGmjg, with the access code: xzma.
 
-Thank you for your attention.
+If you have any questions, feel free to contact me at xianzhima@smail.nju.edu.cn. Thank you for your attention.
