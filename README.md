@@ -1,4 +1,9 @@
-The code for the WeavingUnet model will be published after the paper submission, and other files such as train.py, test.py, and pretrained weights will be released after the article is accepted. We hope for your understanding.
+Welcome you to follow our model WeavingUnet!
+
+The complete code for training, testing, and validation has been uploaded. You can run it by importing the data from different datasets.
+Training command: python /WeavingUnet/train.py
+Testing command: python /WeavingUnet/testdg.py (DeepGlobe) or python /WeavingUnet/testmassa.py (Massachusetts)
+Validation command: python /WeavingUnet/evaldg.py (DeepGlobe) or python /WeavingUnet/evalmassa.py (Massachusetts)
 
 The processed Massachusetts dataset can be obtained at: https://pan.baidu.com/s/1IOp0qI7t3swYrqaKfcGmjg, with the access code: xzma.
 
